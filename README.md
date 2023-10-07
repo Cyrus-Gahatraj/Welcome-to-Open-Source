@@ -62,6 +62,13 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Cyrus-Gahatraj/">
+                    <img src="https://avatars.githubusercontent.com/u/144229941?v=4" width="100px;" alt="Cyrus-Gahatraj"/>
+                    <br />
+                    <sub><b>Cyrus Gahatraj</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/druvkotwani">
                     <img src="https://avatars.githubusercontent.com/u/96691139?v=4" width="100px;" alt="Dhruv Kotwani"/>
                     <br />
